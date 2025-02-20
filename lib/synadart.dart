@@ -2,6 +2,4 @@
 /// educational purposes.
 library synadart;
 
-export 'src/activation.dart';
-
-export 'src/networks/sequential.dart';
+export 'src/export.dart';
